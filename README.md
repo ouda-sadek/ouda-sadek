@@ -3,3 +3,6 @@
 
 ## 🚀 About Me
 I'm a full stack developer...
+
+## 🛠 Skills
+Python, Javascript, HTML, CSS, Php...
